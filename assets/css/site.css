@@ -30,10 +30,6 @@ blockquote {
   color: gray;
 }
 
-nav.bg-light {
-  background-color: rgb(222, 255, 0) !important;
-}
-
 .navbar-light .navbar-nav .nav-link {
   color: black;
 }
@@ -41,11 +37,6 @@ nav.bg-light {
 a {
   color: black;
   text-decoration: underline;
-}
-
-a:hover {
-  background-color: rgb(222, 255, 0);
-  color: black;
 }
 
 .navbar-light .navbar-brand {
@@ -80,11 +71,6 @@ a:hover {
   text-decoration: underline;
 }
 
-code {
-  background-color: rgb(222, 255, 0);
-  color: black;
-}
-
 footer a {
   text-decoration: none;
 }
@@ -92,13 +78,4 @@ footer a {
 footer a:hover {
   background-color: inherit;
   text-decoration: underline;
-}
-
-.token.selector,
-.token.attr-name,
-.token.string,
-.token.char,
-.token.builtin,
-.token.inserted {
-  color: rgb(222, 255, 0);
 }
